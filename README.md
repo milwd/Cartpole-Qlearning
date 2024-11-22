@@ -16,7 +16,9 @@ Implementation of Q-learning on OpenAI's Gym (Gymnasium 0.26), with descriptions
 
 ##### Rewards Plot
 
-The plot below illustrates the agent's reward progression over time:
+The plot below illustrates the agent's reward progression over time: 
+
+(Note that any derivation more than 23 degrees or 500 iterations terminate the episode):
 
 ![Rewards Plot](results/plot.png)
 ---
